@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Oriya:wght@500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("./Images/best-islands-bora-bora.jpg");
+    margin: 30px;
+    font-family: 'Noto Serif Oriya', serif;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: inline-block;
+    margin: 0 25px;
+
+    
+}
+
+button {
+     
+    font-size: 20px;
+    margin: 50px;
+    padding: 10px;
+    border-radius: 5px;
+    color: brown;
+    background-color: darkseagreen;
+    
+    
+}
+
+div{
+    text-align: justify;
+    margin: 20;
+    position: relative;
+    padding-left: 200px;
+    
+}
+
+h1{
+    color: chocolate;
+    text-decoration: underline;
+    font-style: italic;
+}
+h3{
+    font-size: 20px;
+    color: chocolate;
+    
+}
+
+.send{
+    padding: 10px;
+    font-size: 20px;
+    margin-left: 200px;
+    
+}

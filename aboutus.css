@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Oriya:wght@500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rosybrown;
+    margin: 30px;
+    font-family: 'Noto Serif Oriya', serif;
+    height: 100vh;
+    background-color: bisque;
+    text-align: center;
+  
+}
+.logo {
+     
+    width: 25vw;
+    height: 50vh;
+    background-image: url(./Images/logo.jpg);
+    border-radius: 100px;
+    background-position: center;
+    background-size: cover;
+    display: inline-block;
+    margin: 40px;
+}
+.pic1 {
+    
+    width: 55vw;
+    height: 45vh;
+    background-image: url(./Images/descarga\ \(1\).jfif);
+    border-radius: 100px;
+    background-position: center;
+    background-size: contain;
+    display: inline-block;
+    margin-bottom: 30px;
+    
+}
+
+.pic2{
+    background-image: url("./Images/images.png");
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    background-position: center;
+    background-size: cover;
+    display: inline-block;
+    margin: 0 25px;
+}
+
+button {
+     
+    font-size: 20px;
+    margin: 50px;
+    padding: 10px;
+    border-radius: 5px;
+    color: brown;
+    background-color: darkseagreen;
+    
+    
+}
+botton2 {
+    background-color: darkseagreen;
+    margin-left: 25px;
+    padding: 8px;
+    margin-top: auto;
+
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+    text-decoration-line: underline;
+    text-shadow: 2px 1px;
+    margin: 10px;
+}
+
+p{
+    padding: 20px;
+}
+
